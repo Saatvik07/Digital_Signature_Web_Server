@@ -1,0 +1,10 @@
+Student Name: Saatvik Bhatnagar
+Roll Number: 2019097
+
+Semester 1
+Linear Algebra MTH100 7
+PIS DES100 8
+
+Semester 2
+Data Structures and Algorithms CSE200 8
+Computer Organization CSE 201 8
